@@ -1,0 +1,14 @@
+#include"sys/alt_stdio.h"
+
+int main()
+{ 
+	char ch;
+	alt_putstr("Hello from System on Chip\n");
+	alt_putstr("Send any character\n");
+	/* Event loop never exits. */
+	while (1)
+	{
+		ORD_ALTERA_AVALON_SYSID_QSYS_ID(SYSID_QSYS_0_BASE);
+	}
+	return 0;
+}

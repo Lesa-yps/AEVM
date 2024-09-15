@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="sopc01">
+		<CBX_INST_ENTRY INSTANCE_NAME="|nion|nion_nios2_qsys_0:nios2_qsys_0|nion_nios2_qsys_0_nios2_oci:the_nion_nios2_qsys_0_nios2_oci|nion_nios2_qsys_0_nios2_ocimem:the_nion_nios2_qsys_0_nios2_ocimem|nion_nios2_qsys_0_ociram_sp_ram_module:nion_nios2_qsys_0_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_8v71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|nion|nion_nios2_qsys_0:nios2_qsys_0|nion_nios2_qsys_0_register_bank_a_module:nion_nios2_qsys_0_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_4ig1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|nion|nion_nios2_qsys_0:nios2_qsys_0|nion_nios2_qsys_0_register_bank_b_module:nion_nios2_qsys_0_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_5ig1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|nion|nion_onchip_memory2_0:onchip_memory2_0|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_kkc1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
